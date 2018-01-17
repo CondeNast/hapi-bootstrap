@@ -1,6 +1,6 @@
 {
   "name": "@condenast/hapi-bootstrap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "lint": "./node_modules/.bin/eslint .",
     "test": "npm run lint && npm run unit-test",
