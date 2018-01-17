@@ -6,6 +6,7 @@ just a shell project for my node.js hapi setups
 ##requirements
 * NVM
 * Node 6
+* Redis running locally
 
 ## to run unit tests
 `npm test`
