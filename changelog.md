@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [0.0.2]
+## [0.0.2] - 01/17/2018
 ### Changed
 - updated dependencies
 - merged bugfix/if-no-redis-available
