@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.2]
+### Changed
+- updated dependencies
+- merged bugfix/if-no-redis-available
+
 ## [10/27/2017]
 ### Changed
 - updated dependencies that were sorely out of date.
