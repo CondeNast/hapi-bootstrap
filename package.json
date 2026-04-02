@@ -39,7 +39,7 @@
     "bunyan-format": "^0.2.1",
     "catbox-redis": "^3.1.1",
     "hapi": "~16.6.2",
-    "hapi-and-healthy": "^5.0.0",
+    "hapi-and-healthy": "^7.0.5",
     "hapi-swagger": "^8.0.0",
     "hoek": "^5.0.x",
     "inert": "4.x.x",
